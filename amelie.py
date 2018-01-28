@@ -1,2 +1,2 @@
-print "Hello Amlie"
+print "Hello Amélie"
 
