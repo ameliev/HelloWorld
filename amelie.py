@@ -1,4 +1,3 @@
 import time
-
-print "Hello Amlie"
+print "Hello Amélie"
 time.sleep(10)
